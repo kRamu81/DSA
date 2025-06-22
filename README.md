@@ -7,9 +7,15 @@ Welcome to my personal DSA practice repository based on the Apna College LeetCod
 This repo includes problems from the following DSA topics:
 
 ✅ Arrays
+
 ✅ Binary Search
+
 ✅ Strings
+
 ✅ Recursion
+
 ✅ Backtracking
+
 ✅ Linked List
+
 ✅ Stack & Queue
